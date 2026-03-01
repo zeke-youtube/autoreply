@@ -1,0 +1,15 @@
+﻿{
+  "name": "yt-autoreply",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Auto-reply bot for YouTube comments",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^140.0.0",
+    "openai": "^4.84.0"
+  }
+}

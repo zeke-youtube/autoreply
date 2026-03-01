@@ -1,0 +1,13 @@
+# secrets
+.env
+.env.*
+token.json
+*.token.json
+data/tokens.json
+data/rate-log.json
+
+# node
+node_modules/
+
+# logs
+*.log
